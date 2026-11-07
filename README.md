@@ -38,7 +38,7 @@ described [below](#seed-dataset--recommend-circles-to-join).
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/maliom939/Lean-In-Assignment.git)
 cd circle-recommendations-takehome-main
 
 python -m venv .venv
