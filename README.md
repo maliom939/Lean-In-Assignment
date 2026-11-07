@@ -38,8 +38,8 @@ described [below](#seed-dataset--recommend-circles-to-join).
 ## Installation
 
 ```bash
-git clone [<repo-url>](https://github.com/maliom939/Lean-In-Assignment.git)
-cd circle-recommendations-takehome-main
+git clone https://github.com/maliom939/Lean-In-Assignment.git
+cd Lean-In-Assignment
 
 python -m venv .venv
 # Windows (PowerShell)
